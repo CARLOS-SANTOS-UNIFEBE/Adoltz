@@ -1,2 +1,5 @@
 # Adoltz
-Progrma de adoção de animais
+Projeto de adoção de animais
+
+Usuário: admin 
+Senha: 1234
